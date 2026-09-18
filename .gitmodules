@@ -1,4 +1,0 @@
-[submodule "core/llama.cpp"]
-	path = core/llama.cpp
-	url = https://github.com/MaidFoundation/llama.cpp.git
-	branch = master
